@@ -1,5 +1,5 @@
 {
-  "latestVersion": "4.3.2",
-  "downloadUrl": "https://github.com/4buildersai-star/haidrawflow-updates/releases/tag/v4.3.2",
-  "message": "Prompt limit increased from 500 to 1000! Update now."
+  "latestVersion": "4.3.6",
+  "downloadUrl": "https://github.com/4buildersai-star/haidrawflow-updates/releases/latest",
+  "message": "v4.3.6: fixed auth-token capture for Google Flow's new backend (batchexecute), switched to UI-automation based generation for reliability."
 }
