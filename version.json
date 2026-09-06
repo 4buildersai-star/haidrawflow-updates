@@ -1,5 +1,5 @@
 {
-  "latestVersion": "4.3.6",
-  "downloadUrl": "https://github.com/4buildersai-star/haidrawflow-updates/releases/latest",
-  "message": "v4.3.6: fixed auth-token capture for Google Flow's new backend (batchexecute), switched to UI-automation based generation for reliability."
+  "latestVersion": "4.4.1",
+  "downloadUrl": "https://github.com/4buildersai-star/haidrawflow-updates/releases/tag/v4.4.1",
+  "message": "Fixed auto-download failing on flow.google.com (CORS issue) — downloads should be instant now."
 }
