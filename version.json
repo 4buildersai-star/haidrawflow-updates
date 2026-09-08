@@ -1,5 +1,5 @@
 {
-  "latestVersion": "4.4.1",
-  "downloadUrl": "https://github.com/4buildersai-star/haidrawflow-updates/releases/tag/v4.4.1",
-  "message": "Fixed auto-download failing on flow.google.com (CORS issue) — downloads should be instant now."
+  "latestVersion": "4.4.3",
+  "downloadUrl": "https://github.com/4buildersai-star/haidrawflow-updates/releases/tag/v4.4.3",
+  "message": "Even faster: 2 prompts now process simultaneously, and downloads within a prompt happen in parallel too."
 }
